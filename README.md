@@ -1,6 +1,8 @@
-# VoyagerEaseApp
+# Voyager-ease-app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+
+This repository hosts the source code and resources required for the VoyagerEase travel planning app. This app, developed with Angular
 
 ## Development server
 
