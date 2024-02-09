@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "voyager-ease-app:build:production"
+              "buildTarget": "voyager-ease-app:build:production"
             },
             "development": {
-              "browserTarget": "voyager-ease-app:build:development"
+              "buildTarget": "voyager-ease-app:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "voyager-ease-app:build"
+            "buildTarget": "voyager-ease-app:build"
           }
         },
         "test": {
